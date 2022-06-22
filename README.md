@@ -30,7 +30,7 @@
 
 <h2 id="tentang">🎓 Tentang wanime</h2>
 
-Website ini menyediakan tempat download anime bagi para wibu yang dibuat dengan <a href="https://laravel.com/" target="_blank">Laravel
+Website ini menyediakan tempat download anime bagi para wibu yang dibuat dengan <a href="https://laravel.com/" target="_blank">Laravel</a>
 
 <p></p>
 
@@ -39,7 +39,7 @@ Website ini menyediakan tempat download anime bagi para wibu yang dibuat dengan 
 - Landing Page dan Autentikasi
   - Halaman [homepage, genre, season]
 - Memakai kusonime api
-   - <a href="https://kusonime-scrapper.glitch.me/api/" target="_blank">https://kusonime-scrapper.glitch.me/api/ 
+   - <a href="https://kusonime-scrapper.glitch.me/api/" target="_blank">https://kusonime-scrapper.glitch.me/api/</a> 
 
 <p></p>
 
