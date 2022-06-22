@@ -38,7 +38,8 @@ Website ini menyediakan tempat download anime bagi para wibu yang dibuat dengan 
 
 - Landing Page dan Autentikasi
   - Halaman [homepage, genre, season]
-
+- Memakai kusonime api
+   - <a href="https://kusonime-scrapper.glitch.me/api/" target="_blank">https://kusonime-scrapper.glitch.me/api/ 
 
 <p></p>
 
