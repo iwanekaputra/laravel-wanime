@@ -1,6 +1,6 @@
 <h1 align="center">Selamat datang di repository Wanime! 👋🏻</h1>
 
-![collegetivity-preview]()
+![wanime-preview](https://github.com/iwanekaputra/laravel-wanime/blob/main/1.png?raw=true)
 
 <p></p>
 
