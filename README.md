@@ -45,7 +45,7 @@ Website ini menyediakan tempat download anime bagi para wibu yang dibuat dengan 
 
 <h2 id="demo">🏠 Halaman Demo</h2>
 
-Halaman demo dapat anda akses di https://wanimenime.herokuapp.com/ perlu diketahui server dapat tiba tiba mati atau website tidak dapat diakses, oleh karena itu baiknya anda coba di local
+Halaman demo dapat anda akses di [https://wanimenime.herokuapp.com/](http://wanimenime.herokuapp.com/) perlu diketahui server dapat tiba tiba mati atau website tidak dapat diakses, oleh karena itu baiknya anda coba di local
 
 <p></p>
 
