@@ -1,7 +1,6 @@
 <h1 align="center">Selamat datang di repository Wanime! 👋🏻</h1>
 
-[[![wanime-preview]([https://github.com/iwanekaputra/laravel-wanime/blob/main/1.png?raw=true](https://github.com/iwanekaputra/laravel-spp/blob/main/1.png?raw=true))
-](https://github.com/iwanekaputra/laravel-spp/blob/main/1.png?raw=true)](https://github.com/iwanekaputra/laravel-spp/blob/main/1.png?raw=true)
+[[![wanime-preview]([https://github.com/iwanekaputra/laravel-wanime/blob/main/1.png?raw=true]
 <p></p>
 
 <h4 align="center">Website yang menyediakan tempat download anime bagi para wibu yang dibuat dengan <a href="https://laravel.com/" target="_blank">Laravel</a>.
